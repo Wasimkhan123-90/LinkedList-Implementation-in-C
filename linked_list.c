@@ -1,3 +1,23 @@
+/*
+ * Program: Linked List Implementation in C
+ * Author: Wasim Khan
+ * Description:
+ *   A menu-driven program that performs all major operations
+ *   on a singly linked list — insertion, deletion, searching, and display.
+ *   The program dynamically allocates memory using malloc().
+ *
+ * Features:
+ *   - Insert node at beginning
+ *   - Insert node at end
+ *   - Insert node at a specific position
+ *   - Delete node (beginning, end, or specific position)
+ *   - Search for a node
+ *   - Display all nodes
+ *
+ * Language: C
+ * Date: November 2025
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
